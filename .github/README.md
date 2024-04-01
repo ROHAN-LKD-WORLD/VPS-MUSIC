@@ -1,5 +1,5 @@
 <h2 align="center">
-    ──「 INCRICBLE MUSIC 」──
+    ──「 VPS MUSIC 」──
 </h2>
 
 <p align="center">
